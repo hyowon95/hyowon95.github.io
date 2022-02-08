@@ -62,16 +62,17 @@ key: page-about
 자기 스스로 가치있는 행위라고 믿으며, 타인에게 그 가치의 인정을 요구하지 않고 묵묵히 그 가치를 추구해가는 삶이 또한 아름답다는 근거가 여기에 있다.
 ```
 
-## 장비(장난감)
+## 장비(장난감) update 2022.02.08
 * Raspberry Pi 2 Model B
   * 게임기로 제작
 * Anet A8 Plus (FDM 3D Printer)
   * 간단한거 위주로 필요할때만 사용
 * ODROID-HC2
-  * Torrent machine
-  * NFS(Network File System)
+  * 서랍속에 잠자고 있음(code-server 설치예정)
 * ODROID-N2 4G
   * CoreELEC
+  * 서랍속에 잠자고 있음
 * ODROID-HC4
-  * 제작대기중...
+  * KODI
+  * Torrent machine
 
